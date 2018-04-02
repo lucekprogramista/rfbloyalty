@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-      - image: lucek091/circleci_build
+      - image: lucekprogramista/circleci_build
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
